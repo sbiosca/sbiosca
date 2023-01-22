@@ -68,3 +68,6 @@ I'm studying the higher degree cycle on web application development!
 ## Test
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbiosca" alt="sbiosca" /></a> </p>
+
+
+![Metrics](/github-metrics.svg)
