@@ -38,6 +38,8 @@ I'm studying the higher degree cycle on web application development!
       <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
       <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
        <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+      <p></p>
+       <a href="https://www.vuejs.org" target="_blank" rel="noreferrer"> <img src="https://vuejs.org/images/logo.png" alt="vue" width="40" height="40"/> </a>
     </td>
   </tr>
 </table>
