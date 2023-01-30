@@ -19,7 +19,7 @@ I'm studying the higher degree cycle on web application development!
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40"/> </a> <p></p>
       <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1050/1*acfAKaDI7uv5GyFnJmiPhA.png" alt="mongodb" width="40" height="40"/> </a>&nbsp;
       <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" alt="mongodb" width="40" height="40"/> </a>&nbsp;
-      <a href="https://expressjs.com/es/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="mongodb" width="40" height="40"/> </a>
+      <a href="https://expressjs.com/es/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="mongodb" width="40" height="40"/> </a><p></p>
 >Frontend:
 <p></p>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> </a>&nbsp;
