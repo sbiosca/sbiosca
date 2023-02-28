@@ -15,20 +15,9 @@ I'm studying the higher degree cycle on web application development!
   <tr style="border: 1px solid black;">
     <th COLSPAN=3 style="border: 1px solid black;">Technologies & Programming Languages</th>
   </tr>
-  <tr style="border: 1px solid black;">
-    <th COLSPAN=1 style="border: 1px solid black;">Backend</th>
-    <th style="border: 1px solid black;">Frontend</th>
-  </tr>
-  <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">
-      
-      <p></p>
-      
-    </td>
-  </tr>
 </table>
 
->Backend:
+### Backend:
   <p>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>  &nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
@@ -39,7 +28,7 @@ I'm studying the higher degree cycle on web application development!
   <a href="https://expressjs.com/es/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="mongodb" width="40" height="40"/> </a>
   </p>
   
->Frontend:
+### Frontend:
   <p>
     <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> </a>
    <a href="https://angularjs.org/" target="_blank" rel="noreferrer"> <img src="https://material.angularjs.org/latest/img/logo.svg" alt="angularjs" width="40" height="40"/> </a>
