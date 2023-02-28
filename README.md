@@ -21,15 +21,6 @@ I'm studying the higher degree cycle on web application development!
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">
-      
-      
-      
-       <p></p>
-     
-      
-      
-    </td>
-    <td style="border: 1px solid black;">
       <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> </a>
       <a href="https://angularjs.org/" target="_blank" rel="noreferrer"> <img src="https://material.angularjs.org/latest/img/logo.svg" alt="angularjs" width="40" height="40"/> </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
