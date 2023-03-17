@@ -35,7 +35,7 @@ I'm studying the higher degree cycle on web application development!
      <th COLSPAN=3 style="border: 1px solid black;"><a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/1200px-PhpMyAdmin_logo.svg.png" alt="phpmyadmin" width="40" height="40"/> </a></th>
      <th COLSPAN=3 style="border: 1px solid black;"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40"/> </a></th>
      <th COLSPAN=3 style="border: 1px solid black;"><a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1050/1*acfAKaDI7uv5GyFnJmiPhA.png" alt="mongoosejs" width="100" height="40"/> </a></th>
-     <th COLSPAN=3 style="border: 1px solid black;"><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.367014180.4385/st,small,507x507-pad,600x600,f8f8f8.u3.jpg" alt="nodejs" width="70" height="40"/> </a>&nbsp;</th>
+     <th COLSPAN=3 style="border: 1px solid black;"><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png" alt="nodejs" width="70" height="40"/> </a>&nbsp;</th>
      <th COLSPAN=3 style="border: 1px solid black;"><a href="https://expressjs.com/es/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png" alt="express" width="100" height="40"/> </a></th>
   </tr>
 </table>
