@@ -19,6 +19,14 @@ I'm studying the higher degree cycle on web application development!
 
 ### Backend:
   <p>
+  <table style="border: 1px solid black; width: 100%; text-align: center;">
+  <tr style="border: 1px solid black;">
+    <th COLSPAN=3 style="border: 1px solid black;">MariaDB</th>
+  </tr>
+   <tr style="border: 1px solid black;">
+    <td COLSPAN=3 style="border: 1px solid black;"><a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a></td>
+  </tr>
+</table>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>  &nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/1200px-PhpMyAdmin_logo.svg.png" alt="phpmyadmin" width="40" height="40"/> </a>&nbsp;
@@ -39,7 +47,7 @@ I'm studying the higher degree cycle on web application development!
       <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
        <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
    <a href="https://www.vuejs.org" target="_blank" rel="noreferrer"> <img src="https://vuejs.org/images/logo.png" alt="vue" width="40" height="40"/> </a>
-  <a href="https://es.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" alt="react" width="100" height="100"/> </a>
+  <a href="https://es.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" alt="react" width="40" height="40"/> </a>
   </p>
 
 >IDEs:
