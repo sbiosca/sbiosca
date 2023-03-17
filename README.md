@@ -6,7 +6,7 @@ I'm studying the higher degree cycle on web application development!
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergi-biosca-beneyto-6555a0224)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
@@ -70,5 +70,3 @@ I'm studying the higher degree cycle on web application development!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbiosca" alt="sbiosca" /></a> </p>
 
-
-![Metrics](/github-metrics.svg)
