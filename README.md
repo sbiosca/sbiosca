@@ -22,7 +22,7 @@ I'm studying the higher degree cycle on web application development!
   <table style="border: 1px solid black; width: 100%; text-align: center;">
   <tr style="border: 1px solid black;">
     <th COLSPAN=3 style="border: 1px solid black;">PhpMyAdmin</th>
-    <th COLSPAN=3 style="border: 1px solid black;">MariaDB&nbsp;&nbsp;</th>
+    <th COLSPAN=3 style="border: 1px solid black;">MariaDB&nbsp;</th>
     <th COLSPAN=3 style="border: 1px solid black;">MySQL&nbsp;&nbsp;&nbsp;</th>
     <th COLSPAN=3 style="border: 1px solid black;">MongoDB</th>
     <th COLSPAN=3 style="border: 1px solid black;">Mongoose</th>
