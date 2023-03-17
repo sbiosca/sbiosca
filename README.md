@@ -96,6 +96,7 @@ I'm studying the higher degree cycle on web application development!
   &nbsp;
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/download-icon-jquery+icon-1320185152994214115_512.png" alt="jquery" width="40" height="40"/> </a>
   <a href="https://docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.proficom.de/blog//app/uploads/2018/09/Docker.png" alt="docker" width="70" height="40"/> </a>
+  <a href="https://jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://ricardogeek.com/wp-content/uploads/2018/06/jenkins-ci_512.png" alt="docker" width="40" height="40"/> </a>
   </p>
 
 
