@@ -22,9 +22,11 @@ I'm studying the higher degree cycle on web application development!
   <table style="border: 1px solid black; width: 100%; text-align: center;">
   <tr style="border: 1px solid black;">
     <th COLSPAN=3 style="border: 1px solid black;">MariaDB</th>
+    <th COLSPAN=3 style="border: 1px solid black;">MySQL</th>
   </tr>
    <tr style="border: 1px solid black;">
     <td COLSPAN=3 style="border: 1px solid black;"><a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a></td>
+     <td COLSPAN=3 style="border: 1px solid black;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></td>
   </tr>
 </table>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>  &nbsp;
