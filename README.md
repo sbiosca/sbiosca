@@ -23,7 +23,7 @@ I'm studying the higher degree cycle on web application development!
   <tr style="border: 1px solid black;">
     <th COLSPAN=3 style="border: 1px solid black;">PhpMyAdmin</th>
     <th COLSPAN=3 style="border: 1px solid black;">MariaDB</th>
-    <th COLSPAN=3 style="border: 1px solid black;">MySQL</th>
+    <th COLSPAN=3 style="border: 1px solid black;">MySQL&nbsp;&nbsp;&nbsp;</th>
     <th COLSPAN=3 style="border: 1px solid black;">MongoDB</th>
     <th COLSPAN=3 style="border: 1px solid black;">Mongoose</th>
     <th COLSPAN=3 style="border: 1px solid black;">NodeJS</th>
