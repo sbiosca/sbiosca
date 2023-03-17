@@ -47,7 +47,7 @@ I'm studying the higher degree cycle on web application development!
   </tr>
    <tr style="border: 1px solid black;">
     <th COLSPAN=3 style="border: 1px solid black;"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a></th>
-     <th COLSPAN=3 style="border: 1px solid black;"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" alt="phpmyadmin" width="40" height="40"/> </a></th>
+     <th COLSPAN=3 style="border: 1px solid black;"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" alt="phpmyadmin" width="70" height="40"/> </a></th>
      <th COLSPAN=3 style="border: 1px solid black;"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40"/> </a></th>
      
   </tr>
