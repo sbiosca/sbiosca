@@ -42,8 +42,8 @@ I'm studying the higher degree cycle on web application development!
 <table style="border: 1px solid black; width: 100%; text-align: center;">
   <tr style="border: 1px solid black;">
     <th COLSPAN=3 style="border: 1px solid black;">PostgreSQL&nbsp;&nbsp;</th>
-    <th COLSPAN=3 style="border: 1px solid black;">Django&nbsp;</th>
-    <th COLSPAN=3 style="border: 1px solid black;">Laravel</th>
+    <th COLSPAN=3 style="border: 1px solid black;">Django&nbsp;&nbsp;</th>
+    <th COLSPAN=3 style="border: 1px solid black;">Laravel&nbsp;&nbsp;</th>
   </tr>
    <tr style="border: 1px solid black;">
     <th COLSPAN=3 style="border: 1px solid black;"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a></th>
