@@ -64,6 +64,7 @@ I'm studying the higher degree cycle on web application development!
     <th COLSPAN=3 style="border: 1px solid black;">HTML</th>
     <th COLSPAN=3 style="border: 1px solid black;">Java</th>
     <th COLSPAN=3 style="border: 1px solid black;">JavaScript</th>
+    <th COLSPAN=3 style="border: 1px solid black;">Python</th>
     <th COLSPAN=3 style="border: 1px solid black;">PHP</th>
     <th COLSPAN=3 style="border: 1px solid black;">Vue</th>
     <th COLSPAN=3 style="border: 1px solid black;">React</th>
@@ -75,6 +76,7 @@ I'm studying the higher degree cycle on web application development!
      <th COLSPAN=3 style="border: 1px solid black;"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></th>
      <th COLSPAN=3 style="border: 1px solid black;"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></th>
      <th COLSPAN=3 style="border: 1px solid black;"><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></th>
+     <th COLSPAN=3 style="border: 1px solid black;"><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="javascript" width="40" height="40"/> </a></th>
      <th COLSPAN=3 style="border: 1px solid black;"><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></th>
      <th COLSPAN=3 style="border: 1px solid black;"> <a href="https://www.vuejs.org" target="_blank" rel="noreferrer"> <img src="https://vuejs.org/images/logo.png" alt="vue" width="40" height="40"/> </a></th>
      <th COLSPAN=3 style="border: 1px solid black;"><a href="https://es.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" alt="react" width="40" height="40"/> </a></th>
