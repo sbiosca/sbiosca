@@ -8,6 +8,7 @@ I'm studying the higher degree cycle on web application development!
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergi-biosca-beneyto-6555a0224)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![github](https://allvectorlogo.com/img/2021/12/github-logo-vector.png)](https://github.com/sbiosca-s73)
 
 
 ## 🛠 Skills
